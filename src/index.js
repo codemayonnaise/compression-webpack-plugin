@@ -6,7 +6,7 @@
 import path from "path";
 import crypto from "crypto";
 
-import { validate } from "schema-utils";
+import { validate } from "@codemayonnaise/schema-utils";
 import serialize from "serialize-javascript";
 
 import schema from "./options.json";
